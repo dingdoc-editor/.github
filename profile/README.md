@@ -1,5 +1,8 @@
 ## 钉钉文档编辑器
 钉钉文档编辑器是钉钉文档的底座，目前支持[仓颉（文字编辑器）](https://github.com/dingdoc-editor/cangjie)、[纵横（表格编辑器）](https://github.com/dingdoc-editor/cangjie)，助力企业打造自己的“钉钉文档”
+
+![image](https://github.com/user-attachments/assets/2c793c28-0a5d-47e8-8e0a-bb506d13612d)
+
 <!--
 
 **Here are some ideas to get you started:**
